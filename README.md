@@ -8,4 +8,4 @@ npm create vite app-test1
 npm run dev
 ```
 
-<img src="" alt="" />
+<img src="./preview/home.png" alt="" />
